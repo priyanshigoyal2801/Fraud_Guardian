@@ -20,7 +20,7 @@ if st.button("Initiate Transaction"):
     st.markdown("### Enter Transaction Details")
     with st.form("transaction_form"):
         to_account         = st.text_input("To:", value="customer0")
-        from_account       = st.text_input("From:", value="customer1")
+        from_account       = st.text_input("From:", value="Customer1")
         transaction_time   = st.text_input("Time (YYYY-MM-DD HH:MM:SS):", value="2020-06-21 18:08:47")
         city_population    = st.number_input("City Population:", value=128715, step=1)
         latitude           = st.number_input("Latitude:", value=43.2326, format="%.6f")
