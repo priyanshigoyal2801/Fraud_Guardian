@@ -35,7 +35,7 @@ flowchart TD
 ```
 
 **Video Demonstration:**
-- [Transaction Fraud Detection Demo](https://drive.google.com/file/d/1WgTyui917R_p_FktueX8mgUJGVqKQA9r/view?resourcekey)
+- [Transaction Fraud Detection Demo](https://drive.google.com/file/d/1WgTyui917R_p_FktueX8mgUJGVqKQA9r/view?usp=sharing)
 
 ---
 
