@@ -135,3 +135,24 @@ flowchart TD
 3. Refer to the video links above for step-by-step demonstrations.
 
 ---
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements, bug fixes, or new features. For major changes, please open an issue first to discuss what you would like to change.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a pull request
+
+---
+
+## Contact
+
+For questions, suggestions, or collaboration, please open an issue on this repository.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
